@@ -13,5 +13,5 @@ i'm a **linguist** based in ☀ freiburg with 10 years of experience in marketin
 
 ### new chapter
 i just started a bootcamp @neuefische 🐠 to become a 💪 *full stack software developer*
-<img src="Tech_Stacks_FullStack_Dev.pdf>
+<img src="Tech_Stacks_FullStack_Dev.pdf">
 
