@@ -6,10 +6,9 @@ i'm a **linguist** with 10 years of experience in marketing
 - production planning
 
 
+
 my strengths
-<ul>
-  <li>💠 structure</li>
-  <li>🔍 an eye for details</li>
-  <li>🤓 user-friendlyness</li>
-  <li>👁 the visual</li>
-</ul>
+- 💠 structure
+- 🔍 an eye for details
+- 🤓 user-friendlyness
+- 👁 the visual
