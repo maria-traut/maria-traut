@@ -1,7 +1,9 @@
 # hi, my name is maria 
 
 i'm a **linguist** based in ☀ freiburg with 10 years of experience in marketing
-> proofreading, product texts, production planning
+> proofreading
+> product texts
+> production planning
 
 ### my strengths
 - 💠 structure
